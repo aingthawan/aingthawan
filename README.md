@@ -7,3 +7,8 @@
 #### **Summary** 
 > * Computer Engineering (CprE.) ( 2021 - Present )
 > * KMUTNB
+
+* * *
+Here, Take a look at [Random Dev MEMES](https://github.com/techytushar/random-memer)
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
