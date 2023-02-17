@@ -11,10 +11,4 @@
 
 * * *
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aingthawan)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-
-[<img src="/img/btn-spotify.png">](https://spotify-github-profile.vercel.app/api/login)
-
-![spotify-github-profile](/img/natemoo-re.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aingthawan)](https://github.com/anuraghazra/github-readme-stats)
