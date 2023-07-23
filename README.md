@@ -3,11 +3,11 @@
 
 ## Hi!
 
-### The Github Account, For Keep my Academic works 🌱.
+### The Github Account, For my Academic works 🌱.
 
 #### **Summary** 
 > * Computer Engineering Student (CprE.) ( 2021 - Present )
-> * KMUTNB
+> * KMUTNB, BKK, Thailand
 
 * * *
 
